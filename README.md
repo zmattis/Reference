@@ -1,7 +1,11 @@
 # Reference
-Global Reference for all things Computer Engineering.
 
+Global Reference for all things Computer Engineering.
 
 ## Files
 
-httpStatusCodes.md -- > List of all HTTP status codes and corresponding messages
+<dl>
+  <dt>http_status_codes.md</dt>
+  <dd>List of all HTTP status codes and corresponding messages</dd>
+</dl>
+
